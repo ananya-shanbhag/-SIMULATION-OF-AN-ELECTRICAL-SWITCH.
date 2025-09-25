@@ -1,4 +1,5 @@
 # -SIMULATION-OF-AN-ELECTRICAL-SWITCH.
+
 #include <stdio.h>
 void main() {
     int light_switch;
